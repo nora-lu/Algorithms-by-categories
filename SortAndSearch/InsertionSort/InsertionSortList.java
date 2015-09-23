@@ -2,7 +2,10 @@
  * Sort a linked list using insertion sort.
  */
  
-
+/**
+ * O(n^2) time, O(1) extra space.
+ */
+ 
 // Definition for singly-linked list.
 public class ListNode {
   int val;
